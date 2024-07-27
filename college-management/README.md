@@ -51,11 +51,11 @@
 
 
 
-Usage:
+## Usages:
 Users can access the IIIT Lucknow College Management Website by navigating to the website URL in any of the web browsers. The website provides a user-friendly interface with intuitive navigation menus and forms for managing different aspects of college management. It also has complaint redressal system that ensure smooth redressal and solution of issues. Users can login with their respective roles (e.g., student, faculty, or administrator) and access features based on their roles and permissions.
 
 
-Details:
+## Details:
 The College Management Website is built using React framework. It utilizes Node-Express database for storing college-related data, and implements webrtc for communication and data processing.
 
 Some of the technical features of the project include:
