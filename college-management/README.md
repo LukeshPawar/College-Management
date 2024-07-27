@@ -74,13 +74,13 @@ The College Management Website is built using React and Node.js with the Express
 ## Contributing
 We appreciate your interest in contributing to the project. Here are some guidelines on how you can contribute to this project:
 
-Reporting bugs: If you come across any bugs or issues while using the website, please report them to us. You can report bugs by creating an issue in the project's repository on GitHub. When reporting bugs, please provide as much detail as possible about the problem, including steps to reproduce it and any error messages you received.
+1) Reporting bugs: If you come across any bugs or issues while using the website, please report them to us. You can report bugs by creating an issue in the project's repository on GitHub. When reporting bugs, please provide as much detail as possible about the problem, including steps to reproduce it and any error messages you received.
 
-Requesting new features: If you have any suggestions for new features or improvements to the website, please let us know. You can make feature requests by creating an issue in the project's repository on GitHub. Be sure to describe the feature or improvement you would like to see and explain why it would be useful.
+2) Requesting new features: If you have any suggestions for new features or improvements to the website, please let us know. You can make feature requests by creating an issue in the project's repository on GitHub. Be sure to describe the feature or improvement you would like to see and explain why it would be useful.
 
-Submitting pull requests: If you would like to contribute code to the project, you can do so by submitting a pull request. To get started, fork the project's repository on GitHub and make your changes on a new branch. Once you have made your changes, submit a pull request to have your changes reviewed and merged into the main branch.
+3) Submitting pull requests: If you would like to contribute code to the project, you can do so by submitting a pull request. To get started, fork the project's repository on GitHub and make your changes on a new branch. Once you have made your changes, submit a pull request to have your changes reviewed and merged into the main branch.
 
-When submitting a pull request, please follow these guidelines:
+4) When submitting a pull request, please follow these guidelines:
 
 i) Write clear commit messages that describe the changes you made.
 ii) Include tests to ensure that your changes work correctly.
