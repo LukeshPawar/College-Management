@@ -68,10 +68,10 @@ User interface: The user interface (UI) is a critical component of the College M
 
 Reporting: Reporting is an important functionality in a College Management Website as it allows users to generate and view various reports related to student information, faculty details, course details, attendance, grades, assignments and other relevant data.
 
-Language and Code Explanations
+ ## Language and Code Explanations
 The College Management Website is built using React and Node.js with the Express framework, the codebase follows JavaScript coding standards and utilize React's reusable component architecture for building the user interface. Node.js is be used for server-side JavaScript execution, while Express provides routing and middleware functionality for handling HTTP requests.
 
-Contributing
+## Contributing
 We appreciate your interest in contributing to the project. Here are some guidelines on how you can contribute to this project:
 
 Reporting bugs: If you come across any bugs or issues while using the website, please report them to us. You can report bugs by creating an issue in the project's repository on GitHub. When reporting bugs, please provide as much detail as possible about the problem, including steps to reproduce it and any error messages you received.
