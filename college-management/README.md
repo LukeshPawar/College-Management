@@ -52,7 +52,7 @@
 
 
 ## Usages:
-Users can access the RGIPT Amethi  College Management Website by navigating to the website URL in any of the web browsers. The website provides a user-friendly interface with intuitive navigation menus and forms for managing different aspects of college management. It also has complaint redressal system that ensure smooth redressal and solution of issues. Users can login with their respective roles (e.g., student, faculty, or administrator) and access features based on their roles and permissions.
+Users can access the RGIPT Amethi  College Management Website by navigating to the website URL in any of the web browsers. The website provides a user-friendly interface with intuitive Navigation menus and forms for managing different aspects of college management. It also has complaint redressal system that ensure smooth redressal and solution of issues. Users can login with their respective roles (e.g., student, faculty, or administrator) and access features based on their roles and permissions.
 
 
 ## Details:
